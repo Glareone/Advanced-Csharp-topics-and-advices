@@ -2,3 +2,11 @@
 editorconfig/BlazorAppWithEditorConfig/.vs/BlazorAppWithEditorConfig/DesignTimeBuild/.dtbcache.v2
 editorconfig/BlazorAppWithEditorConfig/.vs/ProjectEvaluation/blazorappwitheditorconfig.metadata.v2
 editorconfig/BlazorAppWithEditorConfig/.vs/ProjectEvaluation/blazorappwitheditorconfig.projects.v2
+
+# Ignore Visual Studio build output
+bin/
+obj/
+
+# Ignore other common files and folders
+*.suo
+*.user
