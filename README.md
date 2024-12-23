@@ -20,6 +20,9 @@ In this repository I will try to explain good concepts regarding Async, regardin
   - [Fluent Validation in MinimalAPI](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter06-Model-FluentValidation)  
   - IValidation (in progress)  
 
+## Azure Cloud
+&#9745; [Azure Function .Net8 with Serilog, Production Ready](https://github.com/Glareone/Advanced-Csharp-topics/tree/main/AzureFunctions/AzureFunction.Examples) 
+
 ## Authentication & Authorization
 
 &#9745; [Authentication using JWT](https://github.com/Glareone/Minimal-API-.Net6/tree/main/Chapters/MinimalAPI/Chapter09-Authentication)  
