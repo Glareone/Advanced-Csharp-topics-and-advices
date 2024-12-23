@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Aleksey_Kolesnikov/Documents/EPAM/ExamAndEducation/Advanced-C-topics-and-advices/AzureFunctions/AzureFunction.Examples/Common/Common.csproj": {}
+  },
+  "projects": {
+    "/Users/Aleksey_Kolesnikov/Documents/EPAM/ExamAndEducation/Advanced-C-topics-and-advices/AzureFunctions/AzureFunction.Examples/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Aleksey_Kolesnikov/Documents/EPAM/ExamAndEducation/Advanced-C-topics-and-advices/AzureFunctions/AzureFunction.Examples/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/Aleksey_Kolesnikov/Documents/EPAM/ExamAndEducation/Advanced-C-topics-and-advices/AzureFunctions/AzureFunction.Examples/Common/Common.csproj",
+        "packagesPath": "/Users/Aleksey_Kolesnikov/.nuget/packages/",
+        "outputPath": "/Users/Aleksey_Kolesnikov/Documents/EPAM/ExamAndEducation/Advanced-C-topics-and-advices/AzureFunctions/AzureFunction.Examples/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Aleksey_Kolesnikov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://fsrdev.pkgs.visualstudio.com/_packaging/FsrFeed/nuget/v3/index.json  ": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Enrichers.ClientInfo": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Enrichers.Sensitive": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Expressions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
